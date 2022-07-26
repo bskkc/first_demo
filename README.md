@@ -1,4 +1,4 @@
-# kurulum_demo
+# Student Tracking System
 
 A new Flutter project.
 
